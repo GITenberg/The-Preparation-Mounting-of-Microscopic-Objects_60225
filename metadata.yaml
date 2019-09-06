@@ -1,0 +1,27 @@
+_repo: The-Preparation-Mounting-of-Microscopic-Objects_60225
+_version: 0.0.1
+alternative_title: The Preparation and Mounting of Microscopic Objects
+creator:
+  author:
+    agent_name: Davies, Thomas, microscopist
+    gutenberg_agent_id: '50855'
+    url: http://www.gutenberg.org/2009/agents/50855
+description: ''
+gutenberg_issued: '2019-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Microscopy -- Technique'
+- GITenberg
+tableOfContents: Preface -- Apparatus -- To prepare and mount objects "dry" -- Mounting
+  in Canada balsam -- Preservative liquids, etc., particularly where cells are used
+  -- Sections and how to cut them, with some remarks on dissection -- Injection --
+  Miscellaneous.
+title: The Preparation & Mounting of Microscopic Objects
+url: http://www.gutenberg.org/ebooks/60225
